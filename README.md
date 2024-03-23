@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VmaXd0eTJ5bW5xeGd6bDVpMDc2ZGgxNHRrazRydWplZHJjYjJsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VmaXd0eTJ5bW5xeGd6bDVpMDc2ZGgxNHRrazRydWplZHJjYjJsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100" />
   <div id="badges">
     <a href="https://www.linkedin.com/in/riccardo-corona">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJkZ21pcTQ4dHRxZzg5djVwYTJ3cG9wcWkycXNzNmJzNnMyenhuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif" width="500" height="250" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJkZ21pcTQ4dHRxZzg5djVwYTJ3cG9wcWkycXNzNmJzNnMyenhuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400" height="200" />
 </div>
 
 ---
