@@ -68,12 +68,8 @@ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 ### 🔥 My Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://wolverick1996-git-master-riccardos-projects-217bcb44.vercel.app/api?username=Wolverick1996&hide_border=true&theme=ayu-mirage&card_width=500&rank_icon=github&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats%20|%20Personal&show=reviews,discussions_started,discussions_answered,prs_merged" title="GitHub Stats | Personal" alt="GitHub Stats | Personal" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-git-master-riccardos-projects-3fbdb6cd.vercel.app/api?username=RiccardoCorona-MiaPlatform&hide_border=true&theme=catppuccin_mocha&card_width=500&rank_icon=github&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats%20|%20Professional&show=reviews,discussions_started,discussions_answered,prs_merged" title="GitHub Stats | Professional" alt="GitHub Stats | Professional" />
-  </a>
+  <img align="center" src="https://wolverick1996-git-master-riccardos-projects-217bcb44.vercel.app/api?username=Wolverick1996&hide_border=true&theme=ayu-mirage&card_width=400&rank_icon=github&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats%20|%20Personal&show=reviews,discussions_started,discussions_answered,prs_merged" title="GitHub Stats | Personal" alt="GitHub Stats | Personal" />
+  <img align="center" src="https://github-readme-stats-git-master-riccardos-projects-3fbdb6cd.vercel.app/api?username=RiccardoCorona-MiaPlatform&hide_border=true&theme=catppuccin_mocha&card_width=400&rank_icon=github&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats%20|%20Professional&show=reviews,discussions_started,discussions_answered,prs_merged" title="GitHub Stats | Professional" alt="GitHub Stats | Professional" />
 </div>
 
 <!--
