@@ -22,11 +22,11 @@
 
 I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
 
-- 🔭 I'm currently working as a Full Stack Developer Specialist @ [Mia-Platform](https://mia-platform.eu).
-  Check out my professional [GitHub account](https://github.com/RiccardoCorona-MiaPlatform) to see my recent contributions.
+- 🔭 I work as a Full Stack Developer Specialist @ [Mia-Platform](https://mia-platform.eu).
+  Check out my professional [GitHub account](https://github.com/RiccardoCorona-MiaPlatform) to have a look at my recent contributions.
 - 🌱 I'm currently learning more about design system components and theming. Oh, and Spanish, too!
 - ✈️ Besides being a Software Engineer, I'm also a Travel Coordinator @ [WeRoad](https://www.weroad.it), an Italian group travel company.
-  Check out [my page](https://www.weroad.it/coordinatori/riccardo-corona) to find out what my upcoming trips will be!
+  Check out [my page](https://www.weroad.it/coordinatori/riccardo-corona) to find out about my upcoming trips!
 - 📫 How to reach me:
 
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/riccardo-corona)
@@ -34,15 +34,19 @@ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages & Tools
 
 #### 🔋 Current Stack
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="Cypress" alt="Cypress" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />&nbsp;
