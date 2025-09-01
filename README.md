@@ -22,8 +22,7 @@
 
 I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
 
-- 🔭 I work as a Full Stack Developer Specialist @ [Mia-Platform](https://mia-platform.eu).
-  Check out my professional [GitHub account](https://github.com/RiccardoCorona-MiaPlatform) to have a look at my recent contributions.
+- 🔭 I work as a Software Engineer (in Web Development) @ [Qomodo](https://www.qomodo.me).
 - 🌱 I'm currently learning more about design system components and theming. Oh, and Spanish, too!
 - ✈️ Besides being a Software Engineer, I'm also a Travel Coordinator @ [WeRoad](https://www.weroad.it), an Italian group travel company.
   Check out [my page](https://www.weroad.it/coordinatori/riccardo-corona) to find out about my upcoming trips!
@@ -73,10 +72,7 @@ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 ### 🔥 My Stats
 
-<div align="center">
-  <img align="center" src="https://wolverick1996-git-master-riccardos-projects-217bcb44.vercel.app/api?username=Wolverick1996&hide_border=true&theme=ayu-mirage&rank_icon=github&show_icons=true&custom_title=GitHub%20Stats%20|%20Personal&show=reviews,discussions_started,discussions_answered,prs_merged" title="GitHub Stats | Personal" alt="GitHub Stats | Personal" width="400" />
-  <img align="center" src="https://github-readme-stats-git-master-riccardos-projects-3fbdb6cd.vercel.app/api?username=RiccardoCorona-MiaPlatform&hide_border=true&theme=catppuccin_mocha&rank_icon=github&show_icons=true&custom_title=GitHub%20Stats%20|%20Professional&show=reviews,discussions_started,discussions_answered,prs_merged" title="GitHub Stats | Professional" alt="GitHub Stats | Professional" width="400" />
-</div>
+<img src="https://wolverick1996-git-master-riccardos-projects-217bcb44.vercel.app/api?username=Wolverick1996&hide_border=true&theme=ayu-mirage&rank_icon=github&show_icons=true&custom_title=GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged" title="GitHub Stats" alt="GitHub Stats" width="500" />
 
 <!--
 **Wolverick1996/Wolverick1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
